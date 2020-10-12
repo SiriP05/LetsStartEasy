@@ -2,8 +2,10 @@
 <table>
 <tr>
 	<th>Program number</th> <th>Program name</th>
+	
+	
 </tr>
 <tr>
-	
+	<td>Program Number-1</td> <td> Face Mask Detector</td>
 </tr>
 </table>
