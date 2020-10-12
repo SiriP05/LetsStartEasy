@@ -1,0 +1,6 @@
+﻿  HangManGame.cpp
+c:\users\srishti\source\repos\hangmangame\hangmangame\hangmangame.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\srishti\source\repos\hangmangame\hangmangame\hangmangame.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\srishti\source\repos\hangmangame\hangmangame\hangmangame.cpp(133): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\srishti\source\repos\hangmangame\hangmangame\hangmangame.cpp(134): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HangManGame.vcxproj -> C:\Users\Srishti\source\repos\HangManGame\Debug\HangManGame.exe

@@ -6,4 +6,7 @@
 <tr>
 	<td>Program-01 </td> <td>2 player Tic-Tak-Toe</td>
 </tr>
+<tr>
+	<td>Program-02 </td> <td>The Classic Hang-Man </td>
+</tr>
 </table>
