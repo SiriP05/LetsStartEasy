@@ -35,5 +35,8 @@
 <tr>
 	<td>Program-10 </td> <td> Calculate the frequency of each alphabet in a string</td>
 </tr>
+<tr>
+	<td>Program-11 </td> <td>To draw a rectangle and fill color in it using c++</td>
+</tr>	
 
 </table>
