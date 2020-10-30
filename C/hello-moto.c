@@ -1,5 +1,5 @@
-stdio.h<>
+#include<stdio.h>
 main()
 {
- printf(" hello moto ");
- }
+pritnf("hello moto");
+}
